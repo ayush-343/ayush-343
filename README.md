@@ -47,6 +47,35 @@ Building scalable web apps, AI-powered solutions, IoT systems, and real-time exp
 
 ###
 
+<h3 align="left">🚀 Featured Projects</h3>
+
+### 🛡️ [AgentWallet](https://github.com/ayush-343/AgentWallet)
+Spending controls for autonomous AI agents, with policy-based approvals, budget reservations, human review, and auditable payment flows using Razorpay test mode.
+
+**Tech:** Next.js · FastAPI · PostgreSQL · SQLAlchemy · Docker
+
+### ⚙️ [AgentFlow](https://github.com/ayush-343/AgentFlow)
+A collaborative visual workflow builder for AI browser automation, featuring drag-and-drop workflows, live execution logs, session replays, and multiplayer editing.
+
+**Tech:** Next.js · React Flow · Stagehand · Browserbase · Liveblocks · Trigger.dev
+
+### 🎙️ [ResonaAI](https://github.com/ayush-343/ResonaAI)
+A browser-based speech studio running Kokoro locally with WebGPU or WebAssembly, with voice selection, multi-speaker creator projects, WAV exports, and optional workspace history.
+
+**Tech:** Next.js · Kokoro · WebGPU · Prisma · PostgreSQL · Cloudflare R2
+
+### 💸 [Finance Tracker](https://github.com/ayush-343/FinanceTracker)
+A personal finance app with Gemini-powered receipt scanning, nested budgets, spending analytics, biometric authentication, and local SQLite storage.
+
+**Tech:** React Native · Expo · TypeScript · Gemini API · SQLite · Zustand
+
+### 🗣️ [Tolkio](https://github.com/ayush-343/Tolkio)
+A language exchange platform connecting learners through language matching, real-time chat, video conversations, and push notifications.
+
+**Tech:** React · Node.js · Express · MongoDB · Stream API
+
+###
+
 <h3 align="left">🌐 Connect with me</h3>
 
 ###
